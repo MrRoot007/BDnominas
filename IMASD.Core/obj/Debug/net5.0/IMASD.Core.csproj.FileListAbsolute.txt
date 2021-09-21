@@ -1,0 +1,11 @@
+C:\Users\merid\source\repos\IMASD\IMASD.Core\bin\Debug\net5.0\IMASD.Core.deps.json
+C:\Users\merid\source\repos\IMASD\IMASD.Core\bin\Debug\net5.0\IMASD.Core.dll
+C:\Users\merid\source\repos\IMASD\IMASD.Core\bin\Debug\net5.0\ref\IMASD.Core.dll
+C:\Users\merid\source\repos\IMASD\IMASD.Core\bin\Debug\net5.0\IMASD.Core.pdb
+C:\Users\merid\source\repos\IMASD\IMASD.Core\obj\Debug\net5.0\IMASD.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\merid\source\repos\IMASD\IMASD.Core\obj\Debug\net5.0\IMASD.Core.AssemblyInfoInputs.cache
+C:\Users\merid\source\repos\IMASD\IMASD.Core\obj\Debug\net5.0\IMASD.Core.AssemblyInfo.cs
+C:\Users\merid\source\repos\IMASD\IMASD.Core\obj\Debug\net5.0\IMASD.Core.csproj.CoreCompileInputs.cache
+C:\Users\merid\source\repos\IMASD\IMASD.Core\obj\Debug\net5.0\IMASD.Core.dll
+C:\Users\merid\source\repos\IMASD\IMASD.Core\obj\Debug\net5.0\ref\IMASD.Core.dll
+C:\Users\merid\source\repos\IMASD\IMASD.Core\obj\Debug\net5.0\IMASD.Core.pdb

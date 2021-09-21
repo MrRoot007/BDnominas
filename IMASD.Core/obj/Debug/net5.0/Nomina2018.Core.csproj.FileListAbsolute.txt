@@ -1,0 +1,12 @@
+C:\Users\merid\source\repos\IMASD\IMASD.Core\bin\Debug\net5.0\Nomina2018.Core.deps.json
+C:\Users\merid\source\repos\IMASD\IMASD.Core\bin\Debug\net5.0\Nomina2018.Core.dll
+C:\Users\merid\source\repos\IMASD\IMASD.Core\bin\Debug\net5.0\ref\Nomina2018.Core.dll
+C:\Users\merid\source\repos\IMASD\IMASD.Core\bin\Debug\net5.0\Nomina2018.Core.pdb
+C:\Users\merid\source\repos\IMASD\IMASD.Core\obj\Debug\net5.0\Nomina2018.Core.csprojAssemblyReference.cache
+C:\Users\merid\source\repos\IMASD\IMASD.Core\obj\Debug\net5.0\Nomina2018.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\merid\source\repos\IMASD\IMASD.Core\obj\Debug\net5.0\Nomina2018.Core.AssemblyInfoInputs.cache
+C:\Users\merid\source\repos\IMASD\IMASD.Core\obj\Debug\net5.0\Nomina2018.Core.AssemblyInfo.cs
+C:\Users\merid\source\repos\IMASD\IMASD.Core\obj\Debug\net5.0\Nomina2018.Core.csproj.CoreCompileInputs.cache
+C:\Users\merid\source\repos\IMASD\IMASD.Core\obj\Debug\net5.0\Nomina2018.Core.dll
+C:\Users\merid\source\repos\IMASD\IMASD.Core\obj\Debug\net5.0\ref\Nomina2018.Core.dll
+C:\Users\merid\source\repos\IMASD\IMASD.Core\obj\Debug\net5.0\Nomina2018.Core.pdb

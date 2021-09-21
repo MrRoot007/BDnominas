@@ -1,0 +1,55 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Nomina2018.API</name>
+    </assembly>
+    <members>
+        <member name="M:Nomina2018.API.Controllers.DepartmentController.GetDepartments">
+            <summary>
+            Retrieve all post
+            </summary>
+            <param name="filters">Filter to apply</param>
+            <returns></returns>
+        </member>
+        <member name="M:Nomina2018.API.Controllers.EmployeeController.GetEmployees(Nomina2018.Core.QueryFilters.EmployeeQueryFilter)">
+            <summary>
+            Retrieve all employees
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:Nomina2018.API.Controllers.EmployeeController.GetEmployee(System.Int32)">
+            <summary>
+            Retrieve employee by id
+            </summary>
+            <param name="id">Employee id</param>
+            <returns></returns>
+        </member>
+        <member name="M:Nomina2018.API.Controllers.EmployeeController.GetEmployeesByDepartment(System.Int32)">
+            <summary>
+            Retrieve list of employee by department
+            </summary>
+            <param name="id">department id</param>
+            <returns></returns>
+        </member>
+        <member name="M:Nomina2018.API.Controllers.EmployeeController.Post(Nomina2018.Core.DTOs.EmployeeDTO)">
+            <summary>
+            Create a employee
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:Nomina2018.API.Controllers.EmployeeController.Put(System.Int32,Nomina2018.Core.DTOs.EmployeeDTO)">
+            <summary>
+            Update a employee
+            </summary>
+            <param name="id">Employee id</param>
+            <returns></returns>
+        </member>
+        <member name="M:Nomina2018.API.Controllers.EmployeeController.Delete(System.Int32)">
+            <summary>
+            Delete a employee
+            </summary>
+            <param name="id">Employee id</param>
+            <returns></returns>
+        </member>
+    </members>
+</doc>
